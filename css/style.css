@@ -1,0 +1,38 @@
+header {
+    border: 1px solid red;
+    padding: 0.5em;
+    margin: 0.5em;
+}
+
+header nav ul li {
+    display: inline-block;
+}
+main {
+    border: 1px solid green;
+    padding: 0.5em;
+    margin: 0.5em;
+}
+
+footer {
+    border: 1px solid blue;
+    padding: 0.5em;
+    margin: 0.5em;
+    text-align: center;
+}
+
+li {
+    list-style: none;
+
+}
+
+
+table, th, td{
+    border: 1px solid lightblue;
+    border-collapse: collapse;
+}
+
+form label{
+    display: inline-block;
+    width: 100px;
+
+}
